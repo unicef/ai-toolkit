@@ -19,6 +19,8 @@ Most of the contributions to the documentation on this repository can be made di
 
 Refer to [otherdocs/development.md](docs/development.md) for information related to doing development with this repository.
 
+This site https://unicef.github.io/ai-toolkit is published to [GitHub Pages](https://pages.github.com/) through GitHub Actions, as per the corresponding [documentation](https://docusaurus.io/docs/deployment#deploying-to-github-pages).
+
 ## 💙 About UNICEF
 
 [UNICEF](https://www.unicef.org/) works in over 190 countries and territories to protect the rights of every child. UNICEF has spent more than 70 years working to improve the lives of children and their families. In UNICEF, **we believe all children have a right to survive, thrive and fulfill their potential – to the benefit of a better world**.
