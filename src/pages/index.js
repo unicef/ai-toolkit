@@ -307,7 +307,7 @@ export default function Home({ history }) {
                   </div>
                 </div>
                 <div className="row mt-3">
-                  <div className="col col-5 text-center">
+                  <div className="col col-4 text-center">
                     <input 
                       type="radio"
                       className="btn-check"
@@ -322,24 +322,39 @@ export default function Home({ history }) {
                         Learning Passport
                     </label>
                   </div>
-                  <div className="col col-7 text-center">
+                  <div className="col col-4 text-center">
                     <input 
                       type="radio"
                       className="btn-check"
-                      id="other"
+                      id="otherOS"
                       autoComplete="off"
-                      checked={LMS==='Other'?true:false}
-                      onChange={() => setLMS('Other')}
+                      checked={LMS==='otherOS'?true:false}
+                      onChange={() => setLMS('otherOS')}
                     />
                     <label 
                       className={'btn btn-outline-primary'}
-                      for="other">
+                      for="otherOS">
+                        Other open-source LMS
+                    </label>
+                  </div>
+                  <div className="col col-4 text-center">
+                    <input 
+                      type="radio"
+                      className="btn-check"
+                      id="otherProprietary"
+                      autoComplete="off"
+                      checked={LMS==='otherProprietary'?true:false}
+                      onChange={() => setLMS('otherProprietary')}
+                    />
+                    <label 
+                      className={'btn btn-outline-primary'}
+                      for="otherProprietary">
                         Other Proprietary LMS
                     </label>
                   </div>
                 </div>
                 <div className="row mt-3 text-center">
-                  <div className="col col-7 text-center">
+                  <div className="col col-4 text-center">
                     <input 
                       type="radio"
                       className="btn-check"
