@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Algorithms
+# Good Algorithms for AI
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus arcu nisl, ut congue tellus scelerisque eget. Mauris et placerat tortor. Mauris at augue sapien. Nunc varius massa maximus arcu mollis, porttitor malesuada lacus finibus. Cras vel justo nec lectus semper porttitor. Ut neque urna, scelerisque at enim vel, lacinia gravida erat. Curabitur feugiat malesuada purus ac posuere. In maximus hendrerit laoreet. Duis lectus neque, mollis sit amet dapibus sit amet, feugiat malesuada odio. Praesent quis ex libero. Nam placerat lacinia augue, eget gravida dolor imperdiet sit amet.
 
