@@ -12,9 +12,9 @@ Below are several offerings in the toolkit that provide Adaptive Learning soluti
 
 Angaza Elimu has developed a digital learning platform for adaptive assessment, and tailored support; works offline in regions with low connectivity (piloted in refugee camps). They've built a learning management platform that has the capability to work offline and in areas with low connectivity. They have 8000+ active users and have tested the solution in refugee camps with limited connectivity. They are working with Teleco's on school connectivity, to increase access to their platform.
 
-Learn more about how to get started with Angaza Elimu (link to non-technical)
+[Learn more about how to get started with Angaza Elimu](../solutions/Angaza-Elimu.md#why-use-angaza-elimu-non-technical-link)
 
-Take me to the model itself (link to Tech profile)
+[Take me to the technical documentation](../solutions/Angaza-Elimu.md#technical-set-up-technical-link) 
 
 
 ## Pixframe 
