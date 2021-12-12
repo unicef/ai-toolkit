@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Integration with Existing LMIS
+# Adaptive Learning
 
 ## You are a government official and are looking at expanding an existing LMIS implementation to add personalization
 
