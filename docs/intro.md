@@ -2,11 +2,6 @@
 sidebar_position: 1
 ---
 
-# Introduction (Title)
+# What is Personalized Learning and What are its Learning Outcomes?
 
-*Test.* Italics.  More changes. Etiam mollis pellentesque mi pulvinar tristique. In vitae faucibus ligula. Praesent condimentum nunc non nisi lacinia, ut condimentum nisi fermentum. Donec eget efficitur ante. Aliquam varius, augue in luctus pretium, sapien enim auctor tortor, a varius purus lectus non sapien. Donec facilisis imperdiet nunc ac condimentum. Etiam rhoncus arcu id nisl ultricies, id porttitor augue rhoncus. Integer porta dolor non ipsum elementum pulvinar. Phasellus faucibus sem eu dolor ultricies, id bibendum nisi hendrerit. Pellentesque vitae eros sit amet mi varius mattis. Integer viverra metus eu nibh posuere, sed pulvinar sapien finibus. Donec nunc odio, viverra eget eros nec, laoreet lacinia dui. Etiam blandit sem sed massa consequat, ac ultricies diam blandit. Nulla quis enim eleifend, placerat sapien sit amet, cursus arcu. Pellentesque ut porta massa.
-
-## Getting Started (Subtitle)
-
-Fusce sit amet ipsum et dui ullamcorper scelerisque. Sed eget erat lorem. Integer at dictum lacus. Phasellus tristique sit amet ante vel lobortis. Pellentesque at metus ut augue fringilla dapibus. Nunc ac eleifend dui, sed bibendum metus. Curabitur vel velit libero. Sed pretium quam sit amet volutpat vulputate. Suspendisse purus enim, elementum eget libero eu, dapibus venenatis neque. Cras vel pulvinar dolor. Cras mollis turpis accumsan, mattis turpis sed, laoreet eros. Sed sed turpis odio. Vivamus fermentum sodales tortor, at tristique enim tincidunt id. Etiam posuere augue eget eros condimentum dignissim. Aliquam non tellus et mi fermentum eleifend sit amet eget metus.
-
+Personalized learning can help reduce the global learning gap through intentional planning with non-urban and learner groups at the lower end of the achievement distribution. In the last decade, advancements in data science and machine learning have led to an explosion in tech-enabled, data-driven solutions to personalize learning. Research has shown that pedagogical interventions that tailor teaching to student learning levels are effective at improving student test scores in low- and middle-income countries (LMICs). Evidence is emerging that tech-enabled PL can reduce the learning gap for lower attaining students. The adaptive nature of personalized learning to teach at the right level i
