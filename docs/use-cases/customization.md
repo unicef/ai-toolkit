@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Customization
+# Accessibility
 
 ## You are a technical person and are looking at further customizing and existing algorithm
 
