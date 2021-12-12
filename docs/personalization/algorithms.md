@@ -13,4 +13,5 @@ Fusce sit amet ipsum et dui ullamcorper scelerisque. Sed eget erat lorem. Intege
 [Chimple Documentation](https://www.google.com) This is for external links.
 
 Internal links: [Chimple Documentation](../use-cases/angaza.md)
+https://github.com/unicef/ai-toolkit/blob/main/docs/solutions/Angaza-Elimu.md#technical-set-up-technical-link 
 
