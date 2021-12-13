@@ -15,6 +15,7 @@ Below are several options that offer recommendendation systems for learning.
 Weni developed Bothub, an open platform for training and sharing Natural Language Processing datasets in multiple languages.
 
 [Learn more about Weni] (non-technical link)
+
 [Take me to the model and documentation] (technical link)
 
 
@@ -23,5 +24,6 @@ Weni developed Bothub, an open platform for training and sharing Natural Languag
 Afinidata uses artificial intelligence to provide parents with a personal assistant that guides them with personalized and effortless early-childhood activities.
 
 [Learn more about Afinidata] (non-technical link)
+
 [Take me to the model and documentation] (technical link)
 
