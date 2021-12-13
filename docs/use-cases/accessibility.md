@@ -23,4 +23,3 @@ OTTAA is a AI enabled communication assistant for children with speech impairmen
 [Learn more about how to get started with OTTAA](../solutions/OTTAA.md#why-use-ottaa)
 
 [Take me to the model itself](../solutions/OTTAA.md#technical-set-up)
-

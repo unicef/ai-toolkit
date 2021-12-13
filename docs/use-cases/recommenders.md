@@ -24,5 +24,5 @@ Weni developed Bothub, an open platform for training and sharing Natural Languag
 Afinidata uses artificial intelligence to provide parents with a personal assistant that guides them with personalized and effortless early-childhood activities.
 
 [Learn more about Afinidata](../docs/solutions/Afinidata.md#why-use-afinidata)
-[Take me to the Technical Set-up](/docs/solutions/Afinidata.md#technical-set-up)
+[Take me to the Technical Set-up](../docs/solutions/Afinidata.md#technical-set-up)
 
