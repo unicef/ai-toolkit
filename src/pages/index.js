@@ -114,7 +114,7 @@ export default function Home({ history }) {
 
               </div>
               <div className="card__footer" style={{paddingTop: '5em'}}>
-                None of the above, take me directly to the <Link to="/docs/intro">documentation</Link>
+                None of the above, take me directly to the <Link to="/docs/introduction/intro">documentation</Link>
               </div>
             </div>
           </div>
