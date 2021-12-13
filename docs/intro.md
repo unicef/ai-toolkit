@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-##What is Personalized Learning and How Can it Improve Learning Outcomes?
+## What is Personalized Learning and How Can it Improve Learning Outcomes?
 
 This open source toolkit can help country offices, governments and partners be able to plug and play personalised learning functionality into their own learning management system solutions. Included are training data sets (but protected to keep privacy and confidentiality), open algorithms, and a ‘how do I now retrain this open algorithm and integrate it into my LMS’ guide.
 
