@@ -12,7 +12,7 @@ These increase learning outcomes in several ways. Check out several options belo
 
 iStem is a dashboard for students with disabilities providing automated workflows, content conversion of various format types (documents and audio/video) into accessible formats for people with print disabilities and those who are deaf or hard of hearing using advanced AI, and mentorship matching services. 
 
-[Learn more about how to get started with iStem](..docs/solutions/iStem.md#istem)
+[Learn more about how to get started with iStem](..docs/solutions/iStem.md#why-use-istem)
 
 [Take me to the model itself](..docs/solutions/iStem.md#technical-set-up)
 
