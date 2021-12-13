@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # OTTAA
 
-**OTTA is a AI enabled communication assistant for children with speech impairments using AI and pictograms.
+OTTA is a AI enabled communication assistant for children with speech impairments using AI and pictograms.
 
 ## Why use OTTAA 
 
