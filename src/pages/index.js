@@ -19,16 +19,16 @@ export default function Home({ history }) {
   const [LMS, setLMS] = useState('');
 
 
-  function handleClick() {
-    switch(interest){
+  function handleClick(i) {
+    switch(i){
       case 'converting':
-      history.push(siteConfig.baseUrl + 'docs/use-cases/accessibility');
+      history.push(siteConfig.baseUrl + 'docs/use-cases/accessibility/');
       break;
       case 'automating':
-      history.push(siteConfig.baseUrl + 'docs/use-cases/adaptivelearning'); 
+      history.push(siteConfig.baseUrl + 'docs/use-cases/adaptivelearning/'); 
       break;
       case 'personalized':
-      history.push(siteConfig.baseUrl + 'docs/use-cases/recommenders');
+      history.push(siteConfig.baseUrl + 'docs/use-cases/recommenders/');
       break;
     }
   }
@@ -105,7 +105,7 @@ export default function Home({ history }) {
                     <Button 
                       variant="secondary" 
                       disabled={(interest=='')?true:false}
-                      onClick={handleClick()}
+                      onClick={() => handleClick(interest)}
                     >
                       Show me Solutions
                     </Button>
